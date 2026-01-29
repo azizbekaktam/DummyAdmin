@@ -1,0 +1,5 @@
+{
+  "name": "DummyJSON Dashboard",
+  "description": "A comprehensive React dashboard utilizing the DummyJSON API to manage Products, Users, Carts, Posts, and Todos with a robust architecture and custom global state.",
+  "requestFramePermissions": []
+}
